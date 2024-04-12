@@ -1,0 +1,202 @@
+# Markdown 入门教程
+
+Markdown 是一种轻量级的标记语言，可以轻松地将纯文本转换为 HTML。它具有简洁明了的语法规则，使得编写文档变得简单易懂。下面是一个简单的 Markdown 入门教程，帮助你开始使用这个方便的工具。
+
+## 标题
+
+在 Markdown 中，可以使用 `#` 来表示标题。标题级别越高，显示的字体越大。
+
+### 一级标题
+#
+
+### 二级标题
+##
+
+### 三级标题
+###
+
+## 段落
+
+在 Markdown 中，段落之间使用一个空行进行分隔。
+
+这是一个段落。
+
+这是另一个段落。
+我队尾
+
+
+## 换行
+
+在 Markdown 中，可以使用两个空格加上回车来实现换行效果。
+
+这是一个段落。
+
+这是另一个段落。
+
+## 粗体和斜体
+
+在 Markdown 中，可以使用 `*` 或 `_` 来表示粗体和斜体。
+
+这是一个 **粗体** 文本。
+
+这是一个 *斜体* 文本。
+
+## 列表
+
+在 Markdown 中，可以使用 `*`、`-` 或 `+` 来创建无序列表。
+
+- 无序列表项 1
+- 无序列表项 2
+- 无序列表项 3
+
+## 引用
+
+在 Markdown 中，可以使用 `>` 来创建引用块。
+
+> 这是一个引用块。
+>
+> 引用块可以嵌套。
+
+## 代码块
+
+在 Markdown 中，可以使用三个反引号 ` ``` ` 来创建代码块。
+
+```
+function hello() {
+  console.log("Hello, World!");
+}
+
+hello();
+```
+
+## 链接 
+
+在 Markdown 中，可以使用 `[text](url)` 来创建链接。
+
+这是一个 [百度](https://www.baidu.com) 链接。
+
+## 图片
+
+在 Markdown 中，可以使用 `![alt text](url)` 来创建图片。
+
+![百度Logo](https://www.baidu.com/img/bd_logo1.png "百度Logo")
+
+## 表格
+
+在 Markdown 中，可以使用 `|` 来创建表格。
+
+| 姓名 | 年龄 | 职业 |
+| ----- | ----- | ----- |
+| 张三 | 25 | 工程师 |
+| 李四 | 30 | 医生 |
+| 王五 | 28 | 教师 |
+
+## 水平线
+
+在 Markdown 中，可以使用三个或以上的 `*`、`-` 或 `_` 来创建水平线。
+
+---
+
+## 数学公式
+
+在 Markdown 中，可以使用 `$$` 来创建数学公式。
+
+$$
+E=mc^2
+$$
+
+## 流程图
+
+在 Markdown 中，可以使用 `flow` 标签来创建流程图。
+
+```flow
+st=>start: 开始
+op=>operation: 操作
+cond=>condition: 条件？
+e=>end: 结束
+
+st->op->cond
+cond(yes)->e
+cond(no)->op
+```
+
+## 序列图
+
+在 Markdown 中，可以使用 `sequence` 标签来创建序列图。
+
+```sequence
+Alice->Bob: Hello Bob, how are you?
+Note right of Bob: Bob thinks
+Bob-->Alice: I am good thanks!
+```
+
+## 甘特图
+
+在 Markdown 中，可以使用 `gantt` 标签来创建甘特图。
+
+```gantt
+title 甘特图
+dateFormat YYYY-MM-DD
+section 项目A
+任务1: 2014-01-01, 30d
+任务2: 2014-01-12, 10d
+section 项目B
+任务3: 2014-01-02, 10d
+任务4: 2014-01-15, 10d
+
+```
+
+## 表情符号
+
+在 Markdown 中，可以使用一些预定义的表情符号来添加表情。
+
+:smile:
+
+:joy:
+
+:heart:
+
+:sunglasses:
+
+:laughing:
+
+:blush:
+
+:smirk:
+
+:relaxed:
+
+:smile:
+
+:joy:
+
+:heart:
+
+:sunglasses:
+
+:laughing:
+
+:blush:
+
+:smirk:
+
+:relaxed:
+
+## 转义字符
+
+在 Markdown 中，可以使用反斜杠 `\` 来转义一些特殊字符，例如 `*`、`_`、`{}` 等。
+
+这是一个 *斜体* 文本。
+
+这是一个 _斜体_ 文本。
+
+这是一个 **粗体** 文本。
+
+这是一个 __粗体__ 文本。
+
+这是一个 ***粗斜体*** 文本。
+
+这是一个 ___粗斜体___ 文本。
+
+这是一个 `代码` 文本。
+

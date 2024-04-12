@@ -1,0 +1,109 @@
+# <center><font face="仿宋" font > Markdown 入门</font></center>
+## <font face ="楷体" size=5> </font>
+
+
+
+# 基本语法
+
+## 1标题写法
+#一级标题
+##二级标题 
+...
+## 2引用
+> 这是一个引用
+
+## 3列表
+### 无序列表
+* 列表1
+* 列表2
+* 列表3
+
+### 有序列表
+1. 列表1
+
+### 列表嵌套
+1. 列表1
+    1. 列表1
+        1. 列表1
+        2. 列表2
+    2. 列表2
+1. 列表2
+2. 列表3
+
+
+## 4链接
+[百度](http://www.baidu.com)
+
+## 5图片
+![图片](https://www.baidu.com/img/bd_logo1.png?where=super)
+
+## 6表格
+| 表头1 | 表头2 | 表头3 |
+| ------ | ------ | ------ |
+| 单元格1 | 单元格2 | 单元格3 |
+| 单元格4 | 单元格5 | 单元格6 |
+
+## 7代码
+```
+public class HelloWorld {
+    public static void main(String[] args) {
+        System.out.println("Hello, World!");
+    }
+}
+```
+    
+## 8分割线
+***
+
+## 9强调
+**加粗**
+*斜体*
+***加粗斜体***
+
+## 10删除线
+~~删除~~
+
+## 11脚注
+这是一个脚注[^1]
+
+[^1]: 这是一个脚注
+## 12目录
+[TOC]
+
+## 13自动链接
+<https://www.baidu.com>
+
+## 14反斜杠
+
+
+## 15转义字符
+\* 这是一个转义字符
+
+## 16自动链接
+<https://www.baidu.com>
+
+## 17图片
+- [使用图床] : https://imgse.com/ 
+[![pFXipef.jpg](https://s21.ax1x.com/2024/04/10/pFXipef.jpg)](https://imgse.com/i/pFXipef)
+
+## 数学公式
+- latex公式 :
+  - $$
+    \sum_{i=1}^n a_i=0
+    $$
+  - $$
+    \int_0^1 x^2 dx
+    $$
+  - $$
+    \frac{1}{2}
+    $$
+  - $$
+    \sqrt{2}
+    $$
+  - $$
+    \frac{1}{2}
+    $$
+  - $$
+    \sqrt{2}
+    $$
+  
