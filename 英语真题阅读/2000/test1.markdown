@@ -26,6 +26,10 @@
 如果能合理解决 能成为驱动力。 
 - 这从句由if 连词引导 修饰了主句动词may become 从句省略了主语it
 
+<font face="仿宋" font color="red">When the United States entered just such a glowing period after the end of the Second World War, it had a market eight times larger than any competitor, giving its industries unparalleled economies of scale.</font>
+- 状语从句 when the United States entered just such a glowing period after the end of the Second World War
+- 非谓语从句 giving its industries unparalleled economies of scale. 修饰主句整个句子
+
 
 ## 并列句
 **A history of long and effortless success can be a dreadful handicap, ==but==, if properly handled,it may become a driving force.**
@@ -41,16 +45,10 @@
 ## 定语从句
 - 定语从句是用来修饰名词或代词的从句，它通常位于所修饰的名词或代词之前。定语从句可以用于修饰名词或代词，如人名、物名、地点名等。
   - 定语从句的引导词：which, that, whose, etc.
-
-## 名词性从句
-- 名词性从句是用来代替一个名词的从句，它可以用于修饰名词或代词，如人名、物名、地点名等。
-  - 名词性从句的引导词：who, whom, whose, which, that, etc.
+- America and Americans were prosperous beyond the dreams of the Europeans and Asians ==whose== economies the war had destroyed.
 
 ## 非限制性定语从句
 - 非限制性定语从句是一种特殊的定语从句，它用于修饰一个名词或代词，并且可以省略。非限制性定语从句通常用于修饰名词或代词，如人名、物名、地点名等。
   - 非限制性定语从句的引导词：who, whom, whose, which, that, etc.
 
-## 非限制性同位语从句
-- 非限制性同位语从句是一种特殊的同位语从句，它用于修饰一个名词或代词，并且可以省略。非限制性同位语从句通常用于修饰名词或代词，如人名、物名、地点名等。
-  - 非限制性同位语从句的引导词：who, whom, whose, which, that, etc.
 
