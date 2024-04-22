@@ -55,3 +55,20 @@
  - 肩颈更double plus痛
 
 
+## DAY10
+ - [ ] 1 AVL概念和插入
+ - [ ] 2 作业 & 期末论文
+ - 肩颈更double plus痛
+
+## DAY11 4/22
+ - [ ] 1 AVL概念和插入
+ - [ ] 2 作业 & 期末论文
+ - 肩颈更double plus痛
+
+## DAY12
+ - [ ] 1 AVL概念和插入
+ - [ ] 2 期末论文
+ - [ ] 3 导数微分
+ - 肩颈更double plus痛
+
+
